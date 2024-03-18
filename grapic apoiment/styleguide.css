@@ -1,0 +1,18 @@
+:root {
+    --collection-1-cor-alerta: rgba(255, 41, 80, 1);
+    --collection-1-cor-de-fundo-claro: rgba(242, 244, 245, 1);
+    --collection-1-cor-de-fundo-escuro: rgba(64, 64, 64, 1);
+    --collection-1-cor-de-link: rgba(0, 0, 255, 1);
+    --collection-1-cor-do-olho: rgba(131, 131, 131, 0.5);
+    --collection-1-cor-formulario-login-cad: rgba(172, 124, 0, 1);
+    --collection-1-cor-primaria: rgba(240, 185, 53, 1);
+    --collection-1-cor-secundaria: rgba(22, 44, 99, 1);
+    --collection-1-font-leitura-claro: rgba(77, 90, 80, 1);
+    --collection-1-fundo-do-grafico: rgba(242, 244, 245, 1);
+    --collection-1-fundo-formulario: rgba(217, 217, 217, 0.28);
+    --collection-1-letura-tema-escuro: rgba(242, 244, 245, 1);
+    --collection-1-lupa: rgba(164, 159, 159, 1);
+    --collection-1-rentabilidade-negativa: rgba(255, 25, 25, 1);
+    --collection-1-rentabilidade-positiva: rgba(36, 255, 0, 1);
+  }
+  

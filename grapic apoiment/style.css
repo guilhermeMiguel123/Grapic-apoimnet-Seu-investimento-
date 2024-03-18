@@ -1,0 +1,214 @@
+body{
+    background-color: black;
+}
+.tela-grafico {
+    align-items: center;
+    background-color: #ffffff;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    height: 396px;
+    justify-content: center;
+    padding: 24px 12px 56px;
+    position: relative;
+    width: 674px;
+}
+
+.tela-grafico .frame {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 221px;
+    position: relative;
+}
+
+.tela-grafico .text-wrapper {
+    color: var(--collection-1-cor-de-fundo-escuro);
+    font-family: "Allerta-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: normal;
+    position: relative;
+    width: fit-content;
+}
+
+.tela-grafico .navbar {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 12px;
+    position: relative;
+}
+
+.tela-grafico .div {
+    color: var(--collection-1-cor-primaria);
+    font-family: "Abhaya Libre Medium-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: normal;
+    position: relative;
+    text-align: center;
+    width: 28px;
+}
+
+.tela-grafico .line {
+    height: 20px;
+    object-fit: cover;
+    position: relative;
+    width: 1px;
+}
+
+.tela-grafico .text-wrapper-2,
+.tela-grafico .text-wrapper-3 {
+    color: var(--collection-1-lupa);
+    font-family: "Abyssinica SIL-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: normal;
+    position: relative;
+    text-align: center;
+    width: 28px;
+}
+
+.tela-grafico .img {
+    height: 1px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 18px;
+    width: 27px;
+}
+
+.tela-grafico .frame-2 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 16px;
+    justify-content: center;
+    margin-bottom: -4px;
+    margin-left: -9.75px;
+    margin-right: -9.75px;
+    position: relative;
+}
+
+.tela-grafico .line-2 {
+    height: 244px;
+    left: 318px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 1px;
+}
+
+.tela-grafico .VALORES {
+    align-items: flex-end;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 12px;
+    position: relative;
+}
+
+.tela-grafico .group {
+    height: 244px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 620px;
+}
+
+.tela-grafico .group-2 {
+    height: 111.89px;
+    margin-bottom: -0.75px;
+    margin-left: -0.66px;
+    position: relative;
+    width: 622.16px;
+}
+
+.tela-grafico .frame-3 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 32px;
+    position: relative;
+}
+
+.tela-grafico .text-wrapper-4,
+.tela-grafico .text-wrapper-5 {
+    color: var(--collection-1-lupa);
+    font-family: "Allerta-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: normal;
+    position: relative;
+    text-align: center;
+    width: fit-content;
+}
+
+.tela-grafico .frame-4 {
+    align-items: flex-start;
+    background-color: var(--collection-1-cor-primaria);
+    border-radius: 8px;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 6px;
+    justify-content: center;
+    left: 326px;
+    padding: 12px;
+    position: absolute;
+    top: 140px;
+}
+
+.tela-grafico .text-wrapper-6 {
+    color: #8a8080;
+    font-family: "Abyssinica SIL-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: normal;
+    position: relative;
+    text-align: center;
+    width: fit-content;
+}
+
+.tela-grafico .text-wrapper-7 {
+    color: #5d5d5d;
+    font-family: "Allerta-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: normal;
+    position: relative;
+    width: fit-content;
+}
+
+.tela-grafico .ellipse {
+    background-color: var(--collection-1-cor-primaria);
+    border-radius: 6px;
+    height: 12px;
+    left: 312px;
+    position: absolute;
+    top: 164px;
+    width: 12px;
+}
+
+.tela-grafico .navbar-2 {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 84px;
+    justify-content: flex-end;
+    position: relative;
+}
+
+.tela-grafico .text-wrapper-8 {
+    color: var(--collection-1-lupa);
+    font-family: "Abhaya Libre Medium-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: normal;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    width: fit-content;
+}
